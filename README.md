@@ -36,8 +36,7 @@ keyword, e.g. for the energy
 
 PhysNet base model and TL model for H2COO system are stored in two folders,  "PhysNet_Base_model" and "PhysNet_TL_PES".
 
-Note that, the base model is not robust to use, but the TL model is robust. 
-The model was trained using PhysNet based on Tensorflow 1.
+Note that, the model was trained using PhysNet based on Tensorflow 1.
 
 
 
